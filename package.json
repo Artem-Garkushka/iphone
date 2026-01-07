@@ -1,0 +1,21 @@
+{
+  "name": "iphone",
+  "version": "1.0.0",
+  "description": "сайт iphone",
+  "main": "index.js",
+  "scripts": {
+    "dev": "iphone.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artem-Garkushka/iphone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artem-Garkushka/iphone/issues"
+  },
+  "homepage": "https://github.com/Artem-Garkushka/iphone#readme"
+}
